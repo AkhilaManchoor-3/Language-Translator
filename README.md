@@ -1,4 +1,4 @@
-# text-editor
+# language transaltor
 Language Translation Web Application
 The Language Translator App is a web-based tool designed to facilitate translation of text from one language to another. 
 
