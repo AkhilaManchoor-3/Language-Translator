@@ -1,8 +1,8 @@
 # text-editor
 Language Translation Web Application
-The Language Translator App is a web-based tool designed to facilitate translation of text from one language to another. It features an intuitive user interface and utilizes a free translation API to perform the translation tasks.
+The Language Translator App is a web-based tool designed to facilitate translation of text from one language to another. 
 
-Key Features
+Key Features:
 Text Translation: Users can input text in one language and select one or more target languages to translate into. The app leverages a free translation API to handle the conversion.
 
 Copy to Clipboard: A "Copy" button is available for users to quickly copy the translated text to their clipboard, making it easy to paste the text into other applications or documents.
@@ -11,7 +11,7 @@ Text-to-Speech: Where supported by the translation API, users can use the "Text-
 
 Responsive Design: The app's interface is designed to be responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones.
 
-Technologies Used
+Technologies Used are:
 The Language Translator App utilizes the following technologies:
 
 HTML: Provides the foundational structure and layout of the application.
