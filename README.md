@@ -31,5 +31,4 @@ Choose the target language(s) for the translation.
 Click the "Translate" button to see the translated text.
 Copy the translated text using the "Copy" button.
 If available, use the "Text-to-Speech" button to hear the translated text read aloud.
-Ensure you replace the placeholder API keys in the source code with your actual API keys. Consult the translation API's documentation for details on acquiring the necessary credentials.
 
